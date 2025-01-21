@@ -4,7 +4,7 @@
 </div>  
 
 ### <div align="center">❄ [Winter CMS](https://github.com/wintercms) Lead Maintainer</div>  
-### <div align="center">🤯 Laravel Expert | 💻 Full-Stack PHP Developer | 👨‍✈️ Pilot</div>  
+### <div align="center">🤯 Laravel Expert | 💻 Full-Stack PHP Developer | 👨‍✈️ Pilot | 🤺 Fencer</div>  
 ### <div align="center">🇨🇦 Canada / Remote</div>  
 
 <!--
